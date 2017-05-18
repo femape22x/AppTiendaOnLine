@@ -1,0 +1,57 @@
+c:\users\rcuello.facturecolombia\documents\visual studio 2015\Projects\TecnoShop.Solution\Tienda\bin\Tienda.dll.config
+c:\users\rcuello.facturecolombia\documents\visual studio 2015\Projects\TecnoShop.Solution\Tienda\bin\Tienda.dll
+c:\users\rcuello.facturecolombia\documents\visual studio 2015\Projects\TecnoShop.Solution\Tienda\bin\Tienda.pdb
+c:\users\rcuello.facturecolombia\documents\visual studio 2015\Projects\TecnoShop.Solution\Tienda\obj\Debug\Tienda.csprojResolveAssemblyReference.cache
+c:\users\rcuello.facturecolombia\documents\visual studio 2015\Projects\TecnoShop.Solution\Tienda\obj\Debug\Tienda.dll
+c:\users\rcuello.facturecolombia\documents\visual studio 2015\Projects\TecnoShop.Solution\Tienda\obj\Debug\Tienda.pdb
+C:\Users\estudiante\Downloads\TecnoShop\TecnoShop.Solution\Tienda\bin\Tienda.dll
+C:\Users\estudiante\Downloads\TecnoShop\TecnoShop.Solution\Tienda\bin\Tienda.pdb
+C:\Users\estudiante\Downloads\TecnoShop\TecnoShop.Solution\Tienda\bin\TecnoShop.Model.dll
+C:\Users\estudiante\Downloads\TecnoShop\TecnoShop.Solution\Tienda\bin\TecnoShop.Model.pdb
+C:\Users\estudiante\Downloads\TecnoShop\TecnoShop.Solution\Tienda\obj\Debug\Tienda.csprojResolveAssemblyReference.cache
+C:\Users\estudiante\Downloads\TecnoShop\TecnoShop.Solution\Tienda\obj\Debug\Tienda.dll
+C:\Users\estudiante\Downloads\TecnoShop\TecnoShop.Solution\Tienda\obj\Debug\Tienda.pdb
+C:\Users\docente\Downloads\Clase\TecnoShop.Solution\Tienda\bin\Tienda.dll
+C:\Users\docente\Downloads\Clase\TecnoShop.Solution\Tienda\bin\Tienda.pdb
+C:\Users\docente\Downloads\Clase\TecnoShop.Solution\Tienda\bin\TecnoShop.Model.dll
+C:\Users\docente\Downloads\Clase\TecnoShop.Solution\Tienda\bin\TecnoShop.Model.pdb
+C:\Users\docente\Downloads\Clase\TecnoShop.Solution\Tienda\obj\Debug\Tienda.csprojResolveAssemblyReference.cache
+C:\Users\docente\Downloads\Clase\TecnoShop.Solution\Tienda\obj\Debug\Tienda.dll
+C:\Users\docente\Downloads\Clase\TecnoShop.Solution\Tienda\obj\Debug\Tienda.pdb
+C:\Users\docente\Downloads\TecnoShop.Solution\Tienda\bin\Tienda.dll
+C:\Users\docente\Downloads\TecnoShop.Solution\Tienda\bin\Tienda.pdb
+C:\Users\docente\Downloads\TecnoShop.Solution\Tienda\bin\TecnoShop.Model.dll
+C:\Users\docente\Downloads\TecnoShop.Solution\Tienda\bin\TecnoShop.Model.pdb
+C:\Users\docente\Downloads\TecnoShop.Solution\Tienda\obj\Debug\Tienda.csprojResolveAssemblyReference.cache
+C:\Users\docente\Downloads\TecnoShop.Solution\Tienda\obj\Debug\Tienda.dll
+C:\Users\docente\Downloads\TecnoShop.Solution\Tienda\obj\Debug\Tienda.pdb
+C:\Users\E402\Documents\TecnoShop.Solution\Tienda\bin\Tienda.dll
+C:\Users\E402\Documents\TecnoShop.Solution\Tienda\bin\Tienda.pdb
+C:\Users\E402\Documents\TecnoShop.Solution\Tienda\bin\TecnoShop.Model.dll
+C:\Users\E402\Documents\TecnoShop.Solution\Tienda\bin\TecnoShop.Model.pdb
+C:\Users\E402\Documents\TecnoShop.Solution\Tienda\obj\Debug\Tienda.csprojResolveAssemblyReference.cache
+C:\Users\E402\Documents\TecnoShop.Solution\Tienda\obj\Debug\Tienda.dll
+C:\Users\E402\Documents\TecnoShop.Solution\Tienda\obj\Debug\Tienda.pdb
+C:\Users\PC05\Desktop\TecnoShop.Solution\Tienda\bin\Tienda.dll.config
+C:\Users\PC05\Desktop\TecnoShop.Solution\Tienda\bin\Tienda.dll
+C:\Users\PC05\Desktop\TecnoShop.Solution\Tienda\bin\Tienda.pdb
+C:\Users\PC05\Desktop\TecnoShop.Solution\Tienda\bin\TecnoShop.Model.dll
+C:\Users\PC05\Desktop\TecnoShop.Solution\Tienda\bin\TecnoShop.Model.pdb
+C:\Users\PC05\Desktop\TecnoShop.Solution\Tienda\obj\Debug\Tienda.csprojResolveAssemblyReference.cache
+C:\Users\PC05\Desktop\TecnoShop.Solution\Tienda\obj\Debug\Tienda.dll
+C:\Users\PC05\Desktop\TecnoShop.Solution\Tienda\obj\Debug\Tienda.pdb
+C:\Users\E402\Downloads\TecnoShop.Solution\Tienda\bin\Tienda.dll
+C:\Users\E402\Downloads\TecnoShop.Solution\Tienda\bin\Tienda.pdb
+C:\Users\E402\Downloads\TecnoShop.Solution\Tienda\bin\TecnoShop.Model.dll
+C:\Users\E402\Downloads\TecnoShop.Solution\Tienda\bin\TecnoShop.Model.pdb
+C:\Users\E402\Downloads\TecnoShop.Solution\Tienda\obj\Debug\Tienda.csprojResolveAssemblyReference.cache
+C:\Users\E402\Downloads\TecnoShop.Solution\Tienda\obj\Debug\Tienda.dll
+C:\Users\E402\Downloads\TecnoShop.Solution\Tienda\obj\Debug\Tienda.pdb
+C:\Users\F3L1X\Documents\Visual Studio 2015\Projects\TecnoShop.Solution\Tienda\bin\Tienda.dll.config
+C:\Users\F3L1X\Documents\Visual Studio 2015\Projects\TecnoShop.Solution\Tienda\bin\Tienda.dll
+C:\Users\F3L1X\Documents\Visual Studio 2015\Projects\TecnoShop.Solution\Tienda\bin\Tienda.pdb
+C:\Users\F3L1X\Documents\Visual Studio 2015\Projects\TecnoShop.Solution\Tienda\bin\TecnoShop.Model.dll
+C:\Users\F3L1X\Documents\Visual Studio 2015\Projects\TecnoShop.Solution\Tienda\bin\TecnoShop.Model.pdb
+C:\Users\F3L1X\Documents\Visual Studio 2015\Projects\TecnoShop.Solution\Tienda\obj\Debug\Tienda.csprojResolveAssemblyReference.cache
+C:\Users\F3L1X\Documents\Visual Studio 2015\Projects\TecnoShop.Solution\Tienda\obj\Debug\Tienda.dll
+C:\Users\F3L1X\Documents\Visual Studio 2015\Projects\TecnoShop.Solution\Tienda\obj\Debug\Tienda.pdb

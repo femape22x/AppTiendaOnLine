@@ -1,0 +1,35 @@
+C:\Users\estudiante\Downloads\TecnoShop\TecnoShop.Solution\TecnoShop.Model\bin\Debug\TecnoShop.Model.dll
+C:\Users\estudiante\Downloads\TecnoShop\TecnoShop.Solution\TecnoShop.Model\bin\Debug\TecnoShop.Model.pdb
+C:\Users\estudiante\Downloads\TecnoShop\TecnoShop.Solution\TecnoShop.Model\obj\Debug\TecnoShop.Model.dll
+C:\Users\estudiante\Downloads\TecnoShop\TecnoShop.Solution\TecnoShop.Model\obj\Debug\TecnoShop.Model.pdb
+C:\Users\estudiante\Downloads\TecnoShop\TecnoShop.Solution\TecnoShop.Model\obj\Debug\TecnoShop.Model.csprojResolveAssemblyReference.cache
+C:\Users\docente\Downloads\Clase\TecnoShop.Solution\TecnoShop.Model\bin\Debug\TecnoShop.Model.dll
+C:\Users\docente\Downloads\Clase\TecnoShop.Solution\TecnoShop.Model\bin\Debug\TecnoShop.Model.pdb
+C:\Users\docente\Downloads\Clase\TecnoShop.Solution\TecnoShop.Model\obj\Debug\TecnoShop.Model.csprojResolveAssemblyReference.cache
+C:\Users\docente\Downloads\Clase\TecnoShop.Solution\TecnoShop.Model\obj\Debug\TecnoShop.Model.dll
+C:\Users\docente\Downloads\Clase\TecnoShop.Solution\TecnoShop.Model\obj\Debug\TecnoShop.Model.pdb
+C:\Users\docente\Downloads\TecnoShop.Solution\TecnoShop.Model\bin\Debug\TecnoShop.Model.dll
+C:\Users\docente\Downloads\TecnoShop.Solution\TecnoShop.Model\bin\Debug\TecnoShop.Model.pdb
+C:\Users\docente\Downloads\TecnoShop.Solution\TecnoShop.Model\obj\Debug\TecnoShop.Model.csprojResolveAssemblyReference.cache
+C:\Users\docente\Downloads\TecnoShop.Solution\TecnoShop.Model\obj\Debug\TecnoShop.Model.dll
+C:\Users\docente\Downloads\TecnoShop.Solution\TecnoShop.Model\obj\Debug\TecnoShop.Model.pdb
+C:\Users\E402\Documents\TecnoShop.Solution\TecnoShop.Model\bin\Debug\TecnoShop.Model.dll
+C:\Users\E402\Documents\TecnoShop.Solution\TecnoShop.Model\bin\Debug\TecnoShop.Model.pdb
+C:\Users\E402\Documents\TecnoShop.Solution\TecnoShop.Model\obj\Debug\TecnoShop.Model.csprojResolveAssemblyReference.cache
+C:\Users\E402\Documents\TecnoShop.Solution\TecnoShop.Model\obj\Debug\TecnoShop.Model.dll
+C:\Users\E402\Documents\TecnoShop.Solution\TecnoShop.Model\obj\Debug\TecnoShop.Model.pdb
+C:\Users\PC05\Desktop\TecnoShop.Solution\TecnoShop.Model\bin\Debug\TecnoShop.Model.dll
+C:\Users\PC05\Desktop\TecnoShop.Solution\TecnoShop.Model\bin\Debug\TecnoShop.Model.pdb
+C:\Users\PC05\Desktop\TecnoShop.Solution\TecnoShop.Model\obj\Debug\TecnoShop.Model.csprojResolveAssemblyReference.cache
+C:\Users\PC05\Desktop\TecnoShop.Solution\TecnoShop.Model\obj\Debug\TecnoShop.Model.dll
+C:\Users\PC05\Desktop\TecnoShop.Solution\TecnoShop.Model\obj\Debug\TecnoShop.Model.pdb
+C:\Users\E402\Downloads\TecnoShop.Solution\TecnoShop.Model\bin\Debug\TecnoShop.Model.dll
+C:\Users\E402\Downloads\TecnoShop.Solution\TecnoShop.Model\bin\Debug\TecnoShop.Model.pdb
+C:\Users\E402\Downloads\TecnoShop.Solution\TecnoShop.Model\obj\Debug\TecnoShop.Model.csprojResolveAssemblyReference.cache
+C:\Users\E402\Downloads\TecnoShop.Solution\TecnoShop.Model\obj\Debug\TecnoShop.Model.dll
+C:\Users\E402\Downloads\TecnoShop.Solution\TecnoShop.Model\obj\Debug\TecnoShop.Model.pdb
+C:\Users\F3L1X\Documents\Visual Studio 2015\Projects\TecnoShop.Solution\TecnoShop.Model\bin\Debug\TecnoShop.Model.dll
+C:\Users\F3L1X\Documents\Visual Studio 2015\Projects\TecnoShop.Solution\TecnoShop.Model\bin\Debug\TecnoShop.Model.pdb
+C:\Users\F3L1X\Documents\Visual Studio 2015\Projects\TecnoShop.Solution\TecnoShop.Model\obj\Debug\TecnoShop.Model.csprojResolveAssemblyReference.cache
+C:\Users\F3L1X\Documents\Visual Studio 2015\Projects\TecnoShop.Solution\TecnoShop.Model\obj\Debug\TecnoShop.Model.dll
+C:\Users\F3L1X\Documents\Visual Studio 2015\Projects\TecnoShop.Solution\TecnoShop.Model\obj\Debug\TecnoShop.Model.pdb
