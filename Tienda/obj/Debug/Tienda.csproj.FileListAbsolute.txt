@@ -55,3 +55,11 @@ C:\Users\F3L1X\Documents\Visual Studio 2015\Projects\TecnoShop.Solution\Tienda\b
 C:\Users\F3L1X\Documents\Visual Studio 2015\Projects\TecnoShop.Solution\Tienda\obj\Debug\Tienda.csprojResolveAssemblyReference.cache
 C:\Users\F3L1X\Documents\Visual Studio 2015\Projects\TecnoShop.Solution\Tienda\obj\Debug\Tienda.dll
 C:\Users\F3L1X\Documents\Visual Studio 2015\Projects\TecnoShop.Solution\Tienda\obj\Debug\Tienda.pdb
+C:\Users\F3L1X\Documents\TecnoShop.Solution\Tienda\bin\Tienda.dll.config
+C:\Users\F3L1X\Documents\TecnoShop.Solution\Tienda\bin\Tienda.dll
+C:\Users\F3L1X\Documents\TecnoShop.Solution\Tienda\bin\Tienda.pdb
+C:\Users\F3L1X\Documents\TecnoShop.Solution\Tienda\bin\TecnoShop.Model.dll
+C:\Users\F3L1X\Documents\TecnoShop.Solution\Tienda\bin\TecnoShop.Model.pdb
+C:\Users\F3L1X\Documents\TecnoShop.Solution\Tienda\obj\Debug\Tienda.csprojResolveAssemblyReference.cache
+C:\Users\F3L1X\Documents\TecnoShop.Solution\Tienda\obj\Debug\Tienda.dll
+C:\Users\F3L1X\Documents\TecnoShop.Solution\Tienda\obj\Debug\Tienda.pdb

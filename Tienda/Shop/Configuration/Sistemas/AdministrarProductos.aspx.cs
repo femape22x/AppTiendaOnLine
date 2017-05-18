@@ -47,7 +47,7 @@ namespace Tienda.Shop.Configuration.Sistemas
             }
             catch (FormatException)
             {
-                Mensaje("El campo precio solo recive valores númericos...");
+                Mensaje("El campo precio solo recibe valores númericos...");
             }
         }
 
